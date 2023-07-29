@@ -1,0 +1,15 @@
+C:\ProjetosC#\TextFileCreator\TextFileCreator\bin\Debug\net7.0\TextFileCreator.exe
+C:\ProjetosC#\TextFileCreator\TextFileCreator\bin\Debug\net7.0\TextFileCreator.deps.json
+C:\ProjetosC#\TextFileCreator\TextFileCreator\bin\Debug\net7.0\TextFileCreator.runtimeconfig.json
+C:\ProjetosC#\TextFileCreator\TextFileCreator\bin\Debug\net7.0\TextFileCreator.dll
+C:\ProjetosC#\TextFileCreator\TextFileCreator\bin\Debug\net7.0\TextFileCreator.pdb
+C:\ProjetosC#\TextFileCreator\TextFileCreator\obj\Debug\net7.0\TextFileCreator.csproj.AssemblyReference.cache
+C:\ProjetosC#\TextFileCreator\TextFileCreator\obj\Debug\net7.0\TextFileCreator.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosC#\TextFileCreator\TextFileCreator\obj\Debug\net7.0\TextFileCreator.AssemblyInfoInputs.cache
+C:\ProjetosC#\TextFileCreator\TextFileCreator\obj\Debug\net7.0\TextFileCreator.AssemblyInfo.cs
+C:\ProjetosC#\TextFileCreator\TextFileCreator\obj\Debug\net7.0\TextFileCreator.csproj.CoreCompileInputs.cache
+C:\ProjetosC#\TextFileCreator\TextFileCreator\obj\Debug\net7.0\TextFileCreator.dll
+C:\ProjetosC#\TextFileCreator\TextFileCreator\obj\Debug\net7.0\refint\TextFileCreator.dll
+C:\ProjetosC#\TextFileCreator\TextFileCreator\obj\Debug\net7.0\TextFileCreator.pdb
+C:\ProjetosC#\TextFileCreator\TextFileCreator\obj\Debug\net7.0\TextFileCreator.genruntimeconfig.cache
+C:\ProjetosC#\TextFileCreator\TextFileCreator\obj\Debug\net7.0\ref\TextFileCreator.dll

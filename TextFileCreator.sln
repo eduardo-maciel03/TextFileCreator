@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextFileCreator", "TextFileCreator\TextFileCreator.csproj", "{EC07C43C-B1A9-42A5-9BD1-9A04C467C70F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC07C43C-B1A9-42A5-9BD1-9A04C467C70F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC07C43C-B1A9-42A5-9BD1-9A04C467C70F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC07C43C-B1A9-42A5-9BD1-9A04C467C70F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC07C43C-B1A9-42A5-9BD1-9A04C467C70F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B57C47DC-96D4-4E1C-9F7E-53EB38A85072}
+	EndGlobalSection
+EndGlobal
